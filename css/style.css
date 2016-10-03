@@ -1,0 +1,103 @@
+.navbar-inverse{
+	background-color: #0085a0;
+}
+.has-error .form-control{
+	border-color: #0085a0;
+}
+.list-inline>li{
+		padding: 0 40px;
+}
+.logo_context{
+	display: inline;
+	font-size: 14px;
+}
+.img_color{
+	background-color:  #0085a0;
+	text-align: center;
+	padding: 5px;
+}
+.gallery{
+	padding-top: 15px;
+	margin-right: 20px;
+}
+.context_welcome{
+	padding-top: 50px;
+	padding-bottom: 30px;
+	font-size: 50px;
+	letter-spacing: 11px;
+	text-align: center;
+}
+.contact {
+	padding: 30px 80px;
+	font-size: 30px;
+}
+.text {
+	padding: 0 50px;
+}
+.gallery1{
+	margin: 40px 0;
+}
+.product{
+	font-size: 15px;
+	color: #0085a0;
+}
+.linkMore{
+	border: 1px solid black;
+	width: 150px;
+	margin: 0 auto;
+	color: black;
+	padding: 3px 5px;
+	font-size: 13px;
+}
+.price{
+	display: inline-block;
+	padding-right: 10px;
+	font-weight: bold;
+	font-size: 20px;
+}
+.discount{
+	display: inline-block;
+	padding-bottom: 20px;
+}
+.linkMoreTwo{
+	padding-top: 50px;
+	font-size: 18px;
+}
+.img_product{
+	position: relative;
+}
+.img_content{
+	position: absolute;
+	top: 100px;
+	right: 0;
+	width: 600px;
+}
+div h1{
+	font-size: 30px;
+	color: white;
+}
+.contentH2{
+	font-size: 20px;
+	color: white;
+}
+.linkThree{
+	border:1px solid white;
+	width: 130px;
+	color: white;
+	text-align: center;
+	padding: 5px 0;
+
+}
+h3{
+	color: #0b7f96
+}
+.text_foter{
+	padding-left: 10px;
+	color: white;
+	font-size: 20px;
+}
+.search_foter{
+	width: 360px;
+	height: 30px;
+	margin-left: 50px;
+}
